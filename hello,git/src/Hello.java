@@ -1,7 +1,8 @@
 
 public class Hello {
 	public static void main(String[] args) {
-		System.out.println("这是我第一次使用git上传！！");
+		System.out.println("杩欐槸鎴戠涓�娆′娇鐢╣it涓婁紶锛侊紒");
+		System.out.println("杩欐槸鎴戠涓�娆′娇鐢╣it鏇存柊锛侊紒");
 	}
 
 }
